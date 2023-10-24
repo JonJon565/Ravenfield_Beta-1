@@ -611,7 +611,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: SteelRaven7
   metroCertificateIssuer: SteelRaven7
-  metroCertificateNotAfter: 809fa4021321db01
+  metroCertificateNotAfter: 8080d71e0725db01
   metroApplicationDescription: 
   wsaImages: {}
   metroTileShortName: Ravenfield
